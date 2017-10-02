@@ -1,0 +1,15 @@
+2|America|50.99|Pictures/america.jpg|HISTORY|Jefferson|Adams|
+3|Bible|99.99|Pictures/cross.png|FICTION|Jesus|God|Holy Spirit|
+3|Cars 101|24.5|Pictures/cars101.png|REFERENCE|Car Guy|Tool Guy|Other Guy|
+1|Catch 22|22.22|Pictures/catch22.jpg|FICTION|Joseph Heller|
+2|Hop on Pop|11.11|Pictures/hoponpop.jpg|FICTION|Dr. Suess|Mr. Pop|
+2|Dictionary|4.0|Pictures/dictionary.jpg|REFERENCE|Webster|The Other Guys|
+4|Space!|50.5|Pictures/space.jpg|OTHER|Scientist|Writer|Photographer|Sociopath|
+1|Money Money Money|100.0|Pictures/money.jpg|OTHER|Mr. Mun E. Bags|
+1|This is a Book|41.14|Pictures/book.jpg|OTHER|Author|
+1|Fight Club|23.11|Pictures/fight.jpg|FICTION|Chuck Palnuik|
+1|The Perks of Being a Wallflower|52.25|Pictures/wallflower.jpg|FICTION|That Dude|
+1|John Lennon: A Life|88.88|Pictures/lennon.jpg|BIOGRAPHY|John Lennon's Ghost|
+2|Ghandi: He Lived|0.0|Pictures/ghandi.jpg|BIOGRAPHY|Ghandi Lover|The British|
+1|Cat's Cradle|9.99|Pictures/cats.jpg|FICTION|Kurt Vonegut|
+4|Cooking is for Yummies!|20.0|Pictures/cooking.jpeg|OTHER|Master Chef|The Spices Guy|Ilike Pie|Mrs. Buttersworth|
